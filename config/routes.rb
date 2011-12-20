@@ -1,4 +1,8 @@
 Ctbenchmark::Application.routes.draw do
+  get "test/regular"
+
+  get "test/catch_throw"
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
