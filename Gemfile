@@ -15,6 +15,8 @@ gem 'rails', '3.1.3'
 #  gem 'uglifier', '>= 1.0.3'
 #end
 
+gem 'thin'
+
 
 
 # To use ActiveModel has_secure_password
